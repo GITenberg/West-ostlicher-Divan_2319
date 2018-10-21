@@ -1,5 +1,5 @@
 _repo: West-ostlicher-Divan_2319
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,6 +29,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'German poetry -- 19th century'
 - !lcc 'PT'
+- GITenberg
 tableOfContents: "Buch des Sängers\r\nBuch Hafis\r\nBuch der Liebe\r\nBuch der Betrachtungen\r\
   \nBuch des Unmuts\r\nBuch der Sprüche\r\nBuch des Timur\r\nBuch Suleika\r\nDas Schenkenbuch\r\
   \nBuch der Parabeln\r\nBuch des Parsen\r\nBuch des Paradieses"
